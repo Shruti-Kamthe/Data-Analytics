@@ -1,1 +1,2 @@
-# Diabetes-Prediction
+# Data-Analytics
+Aspiring Data Analyst
