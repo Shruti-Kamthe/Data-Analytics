@@ -1,2 +1,2 @@
 # Data-Analytics
-Aspiring Data Analyst
+Exploring Python
