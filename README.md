@@ -4,11 +4,11 @@ Through various Machine Learning algorithms like Random Forest algorithm, Suppor
 
 ## About the dataset
 
-The dataset was retrieved from kaggle.com
+The dataset was retrieved from [kaggle.com](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv)
 
 
 The dataset consists of 10 columns and 5001 rows having the following variables:
-<li><b>Call Id</b>: Unique ID of each call. </li> 
+<li><b>all Id</b>: Unique ID of each call. </li> 
 <li><b>Agent</b>: Name of the agent. </li> 
 <li><b>Date</b>: Date of the call </li>
 <li><b>Topic</b>: Reason of the call </li>
